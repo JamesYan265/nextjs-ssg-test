@@ -26,7 +26,7 @@ export default function Home({ allPostsData }) {
     <Layout home>
       <section className={utilStyles.headingMd}>
         <p>
-          你好，我叫JamesYan，正在學習不同的電腦語言，主要為Javascript
+          你好，我叫James Yan，正在學習不同的電腦語言，主要學習以Javascript首的語言及其Framework
         </p>
       </section>
 
